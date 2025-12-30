@@ -1,0 +1,16 @@
+{
+  "name": "Tesla Token",
+  "symbol": "TESLA",
+  "description": "This token has no association with Tesla, Inc. It exists to inform and educate people about Nikola Tesla, who he was, and how his scientific work is vital to our world today and will continue to be for generations to come.",
+  "image": "https://raw.githubusercontent.com/cashcowcarter/Tesla-Token/main/TeslaToken.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/cashcowcarter/Tesla-Token/main/TeslaToken.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
